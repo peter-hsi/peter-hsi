@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ... mo' money!
 --->
 - 📫 How to reach me: email is best
-- 🚫 All repos set to private, because they contain passwords and other sensitive info. Sorry, will make them public as they get scrubbed clean.
+- 🚫 All repos set to private because they contain passwords and other sensitive info. This is temporary.
 
 <!---
 peter-hsi/peter-hsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
